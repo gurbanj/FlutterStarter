@@ -1,6 +1,6 @@
-# i_am_rich
+# i_am_united
 
-A new Flutter project.
+A new Flutter project (in progress) for Manchester United Fans.
 
 ## Getting Started
 
